@@ -1,0 +1,5 @@
+comparison_item,baseline_value,optimized_value,change,change_percent
+Transportation cost,15115364.07140153,17701059.422814757,2585695.3514132258,17.106404709797204
+Weighted average distance,294.698174560869,345.11043697363584,50.412262412766836,17.10640470979719
+Excess demand,26201.0,0.0,-26201.0,-100.0
+Capacity violated centers,4.0,0.0,-4.0,

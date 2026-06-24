@@ -1,0 +1,13 @@
+seller_center_id,assigned_demand,assigned_zones,seller_city,seller_state,warehouse_capacity,utilization_rate,capacity_violation,excess_demand
+FC_14940_ibitinga_SP,12804.0,10,ibitinga,SP,17934,0.7139511542321847,False,0.0
+FC_5849_sao_paulo_SP,4732.0,2,sao paulo,SP,4732,1.0,False,0.0
+FC_15025_sao_jose_do_rio_preto_SP,4717.0,5,sao jose do rio preto,SP,4717,1.0,False,0.0
+FC_9015_santo_andre_SP,4037.0,4,santo andre,SP,4037,1.0,False,0.0
+FC_13405_piracicaba_SP,3688.0,5,piracicaba,SP,3688,1.0,False,0.0
+FC_4782_sao_paulo_SP,3506.0,1,sao paulo,SP,3506,1.0,False,0.0
+FC_8577_itaquaquecetuba_SP,3402.0,2,itaquaquecetuba,SP,3402,1.0,False,0.0
+FC_3204_sao_paulo_SP,3341.0,1,sao paulo,SP,3341,1.0,False,0.0
+FC_4160_sao_paulo_SP,2857.0,1,sao paulo,SP,2857,1.0,False,0.0
+FC_13232_campo_limpo_paulista_SP,2779.0,3,campo limpo paulista,SP,2779,1.0,False,0.0
+FC_3426_sao_paulo_SP,2720.0,2,sao paulo,SP,2720,1.0,False,0.0
+FC_14840_guariba_SP,2708.0,5,guariba,SP,2708,1.0,False,0.0

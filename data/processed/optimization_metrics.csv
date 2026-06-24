@@ -1,0 +1,2 @@
+policy,solver_status,total_demand,total_capacity,total_transportation_cost,weighted_avg_distance_km,num_fulfillment_centers,num_customer_zones,num_allocation_lanes,num_capacity_violated_centers,total_excess_demand,max_utilization_rate,cost_change_vs_baseline,distance_change_vs_baseline,excess_demand_reduction_vs_baseline
+optimized_capacity_constrained_allocation,Optimal,51291.0,56421,17701059.422814757,345.11043697363584,12,30,41,0,0.0,1.0,0.17106404709797204,0.17106404709797188,26201.0

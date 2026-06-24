@@ -1,0 +1,9 @@
+finding_id,finding,metric,value
+1,Baseline nearest-center policy had lower distance but violated capacity constraints.,Capacity violated centers,4.0
+2,Baseline policy generated substantial excess demand.,Total excess demand,26201.0
+3,Optimized allocation eliminated all capacity violations.,Optimized capacity violated centers,0.0
+4,Optimized allocation fully removed excess demand.,Optimized total excess demand,0.0
+5,Optimized policy increased transportation cost because it satisfies capacity constraints.,Cost change vs baseline (%),17.106404709797204
+6,Optimized policy increased weighted average distance because some demand must be assigned to non-nearest centers.,Distance change vs baseline (%),17.10640470979719
+7,Capacity sensitivity analysis showed that larger capacity buffers reduce transportation cost.,Cost reduction from buffer 1.00 to 1.30,2069897.7191517018
+8,Capacity sensitivity analysis showed that larger capacity buffers reduce weighted average distance.,Distance reduction from buffer 1.00 to 1.30,40.35596340784366

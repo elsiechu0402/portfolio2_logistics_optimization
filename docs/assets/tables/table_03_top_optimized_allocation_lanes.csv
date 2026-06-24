@@ -1,0 +1,16 @@
+Customer Zone,Customer City,Customer State,Fulfillment Center,Center City,Center State,Allocated Demand,Distance (km),Optimized Transportation Cost
+sao_paulo_SP,sao paulo,SP,FC_5849_sao_paulo_SP,sao paulo,SP,3902.0,15.300011876026396,59700.646340255
+sao_paulo_SP,sao paulo,SP,FC_4782_sao_paulo_SP,sao paulo,SP,3506.0,15.031276304620468,52699.65472399936
+sao_paulo_SP,sao paulo,SP,FC_3204_sao_paulo_SP,sao paulo,SP,3341.0,7.996017015853918,26714.69284996794
+rio_de_janeiro_RJ,rio de janeiro,RJ,FC_14940_ibitinga_SP,ibitinga,SP,3313.0,581.1537152448367,1925362.258606144
+rio_de_janeiro_RJ,rio de janeiro,RJ,FC_8577_itaquaquecetuba_SP,itaquaquecetuba,SP,2967.0,317.46313839755567,941913.1316255477
+sao_paulo_SP,sao paulo,SP,FC_4160_sao_paulo_SP,sao paulo,SP,2857.0,6.3522080313631735,18148.258345604587
+belo_horizonte_MG,belo horizonte,MG,FC_14940_ibitinga_SP,ibitinga,SP,2806.0,546.4891564431355,1533448.572979438
+sao_paulo_SP,sao paulo,SP,FC_3426_sao_paulo_SP,sao paulo,SP,2433.0,10.12581443897704,24636.10653003114
+brasilia_DF,brasilia,DF,FC_15025_sao_jose_do_rio_preto_SP,sao jose do rio preto,SP,2157.0,575.3691616366855,1241071.2816503306
+curitiba_PR,curitiba,PR,FC_14940_ibitinga_SP,ibitinga,SP,1723.0,413.30719149224495,712128.290941138
+campinas_SP,campinas,SP,FC_13405_piracicaba_SP,piracicaba,SP,1622.0,64.17651759260667,104094.31153520802
+porto_alegre_RS,porto alegre,RS,FC_14940_ibitinga_SP,ibitinga,SP,1567.0,951.6411515719044,1491221.6845131742
+salvador_BA,salvador,BA,FC_14840_guariba_SP,guariba,SP,1349.0,1395.8139555884122,1882953.026088768
+sao_paulo_SP,sao paulo,SP,FC_9015_santo_andre_SP,santo andre,SP,1320.0,14.886073819668445,19649.617441962346
+sao_bernardo_do_campo_SP,sao bernardo do campo,SP,FC_9015_santo_andre_SP,santo andre,SP,1037.0,6.76380251330932,7014.063206301765

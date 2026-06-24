@@ -1,0 +1,13 @@
+Fulfillment Center,City,State,Assigned Demand,Capacity,Utilization Rate,Capacity Violation,Excess Demand,Assigned Customer Zones
+FC_5849_sao_paulo_SP,sao paulo,SP,4732.0,4732,1.0,False,0.0,2
+FC_15025_sao_jose_do_rio_preto_SP,sao jose do rio preto,SP,4717.0,4717,1.0,False,0.0,5
+FC_9015_santo_andre_SP,santo andre,SP,4037.0,4037,1.0,False,0.0,4
+FC_13405_piracicaba_SP,piracicaba,SP,3688.0,3688,1.0,False,0.0,5
+FC_4160_sao_paulo_SP,sao paulo,SP,2857.0,2857,1.0,False,0.0,1
+FC_4782_sao_paulo_SP,sao paulo,SP,3506.0,3506,1.0,False,0.0,1
+FC_8577_itaquaquecetuba_SP,itaquaquecetuba,SP,3402.0,3402,1.0,False,0.0,2
+FC_3204_sao_paulo_SP,sao paulo,SP,3341.0,3341,1.0,False,0.0,1
+FC_3426_sao_paulo_SP,sao paulo,SP,2720.0,2720,1.0,False,0.0,2
+FC_13232_campo_limpo_paulista_SP,campo limpo paulista,SP,2779.0,2779,1.0,False,0.0,3
+FC_14840_guariba_SP,guariba,SP,2708.0,2708,1.0,False,0.0,5
+FC_14940_ibitinga_SP,ibitinga,SP,12804.0,17934,0.7139511542321847,False,0.0,10

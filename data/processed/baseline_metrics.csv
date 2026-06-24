@@ -1,0 +1,2 @@
+policy,total_demand,total_capacity,total_transportation_cost,weighted_avg_distance_km,num_fulfillment_centers,num_customer_zones,num_capacity_violated_centers,total_excess_demand,max_utilization_rate
+baseline_nearest_center,51291,56421,15115364.07140153,294.698174560869,12,30,4,26201,6.075953797689884

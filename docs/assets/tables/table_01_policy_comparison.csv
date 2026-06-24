@@ -1,0 +1,3 @@
+Policy,Total Demand,Total Capacity,Total Transportation Cost,Weighted Avg Distance (km),Capacity Violated Centers,Total Excess Demand,Max Utilization Rate
+Baseline nearest-center policy,51291.0,56421,15115364.07140153,294.698174560869,4,26201.0,6.075953797689884
+Optimized capacity-constrained allocation,51291.0,56421,17701059.422814757,345.11043697363584,0,0.0,1.0
