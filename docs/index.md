@@ -54,7 +54,6 @@ title: E-Commerce Fulfillment Optimization
 <p class="portfolio-subtitle">Portfolio 2: Logistics and Fulfillment Optimization | Elsie Chu</p>
 
 <div class="portfolio-nav">
-  <strong>Navigation:</strong>
   <a href="#1-introduction">Introduction</a>
   <a href="#2-research-question">Research Question</a>
   <a href="#3-data">Data</a>
@@ -88,16 +87,19 @@ This project uses the **Brazilian E-Commerce Public Dataset by Olist** on Kaggle
 
 I also constructed customer demand zone variables, candidate fulfillment center variables, route distance and cost variables, and model parameters for logistics optimization modeling. These constructed variables should not be interpreted as Olist's real warehouse network.
 
-| Variable category | Examples |
-|---|---|
-| Original order-related variables | order records and delivered order items |
-| Original customer location variables | customer zip-code prefix, customer city, customer state |
-| Original seller location variables | seller zip-code prefix, seller city, seller state |
-| Original geographic coordinate variables | latitude and longitude from the geolocation table |
-| Constructed customer demand zone variables | `customer_zone`, demand |
-| Constructed candidate fulfillment center variables | `fulfillment_center_id`, estimated capacity |
-| Constructed route distance and cost variables | route distance, transportation cost |
-| Model parameters | `cost_per_km`, `capacity_buffer` |
+### Original Variable Categories
+
+- Order-related variables
+- Customer location variables
+- Seller location variables
+- Geographic coordinate variables
+
+### Constructed Variable Categories
+
+- Customer demand zone variables
+- Candidate fulfillment center variables
+- Route distance and cost variables
+- Model parameters
 
 ## 4. Methods
 
