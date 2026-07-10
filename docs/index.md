@@ -4,6 +4,11 @@ title: E-Commerce Fulfillment Optimization
 ---
 
 <style>
+  .site-header,
+  .site-title {
+    display: none !important;
+  }
+
   .portfolio-title {
     margin-top: 1.2rem;
     margin-bottom: 0.4rem;
@@ -73,7 +78,7 @@ This page summarizes an applied logistics optimization portfolio using public e-
 
 In real e-commerce distribution situations, it is important to consider not only route cost and distance, but also whether each fulfillment center or warehouse location has enough capacity to handle the assigned demand. A simple nearest-center rule may look efficient because it sends each customer zone to the closest fulfillment center, but it can cause unexpected capacity issues when demand is concentrated in big cities or nearby warehouses have limited capacity.
 
-This project uses a public dataset, the **Brazilian E-Commerce Public Dataset by Olist**, and constructs metrics such as warehouse capacity, `cost_per_km`, transportation cost, candidate warehouse locations, and demand zones to conduct a logistics and fulfillment allocation analysis. This project uses a baseline nearest-center policy, an initial binary assignment model, and a final transportation allocation model to support more feasible allocation decisions under demand and warehouse capacity constraints.
+This project uses a public dataset, the [**Brazilian E-Commerce Public Dataset by Olist**](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce), and constructs metrics such as warehouse capacity, `cost_per_km`, transportation cost, candidate warehouse locations, and demand zones to conduct a logistics and fulfillment allocation analysis. This project uses a baseline nearest-center policy, an initial binary assignment model, and a final transportation allocation model to support more feasible allocation decisions under demand and warehouse capacity constraints.
 
 ## 2. Research Question
 
