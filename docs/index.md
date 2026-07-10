@@ -5,7 +5,10 @@ title: E-Commerce Fulfillment Optimization
 
 <style>
   .site-header,
-  .site-title {
+  .site-title,
+  .page-header,
+  .project-name,
+  header[role="banner"] {
     display: none !important;
   }
 
