@@ -1,15 +1,25 @@
 ---
-layout: default
+layout: null
 title: E-Commerce Fulfillment Optimization
 ---
 
 <style>
-  .site-header,
-  .site-title,
-  .page-header,
-  .project-name,
-  header[role="banner"] {
-    display: none !important;
+  body {
+    max-width: 980px;
+    margin: 0 auto;
+    padding: 32px 20px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+    line-height: 1.6;
+    color: #24292f;
+    background: #ffffff;
+  }
+
+  a {
+    color: #0969da;
+  }
+
+  h1, h2, h3 {
+    line-height: 1.25;
   }
 
   .portfolio-title {
