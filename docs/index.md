@@ -49,12 +49,6 @@ title: E-Commerce Fulfillment Optimization
     font-size: 0.92rem;
     text-decoration: none;
   }
-  .project-note {
-    border-left: 4px solid #d0d7de;
-    padding: 10px 14px;
-    background: #f6f8fa;
-    margin: 14px 0 22px 0;
-  }
   img {
     max-width: 100%;
     border: 1px solid #e5e7eb;
@@ -83,9 +77,9 @@ title: E-Commerce Fulfillment Optimization
   <a href="#tools">Tools</a>
 </div>
 
-<div class="project-note">
-This page summarizes an applied logistics optimization portfolio using public e-commerce data. The project compares a nearest-center baseline policy with capacity-constrained optimization models.
-</div>
+<p>
+  <a href="final_report.pdf" target="_blank"><strong>Download Final Report PDF</strong></a>
+</p>
 
 ## 1. Introduction
 
