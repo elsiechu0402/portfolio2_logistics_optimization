@@ -78,7 +78,7 @@ title: E-Commerce Fulfillment Optimization
 </div>
 
 <p>
-  <a href="final_report.pdf" target="_blank"><strong>Download Final Report PDF</strong></a>
+  <a href="final_report.pdf" target="_blank"><strong>View Full Report PDF</strong></a>
 </p>
 
 ## 1. Introduction
