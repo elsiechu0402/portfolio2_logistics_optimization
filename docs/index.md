@@ -214,10 +214,17 @@ The sensitivity analysis tested how the final optimization model results changed
 
 **Table 2. Capacity sensitivity analysis results.**
 
-| Capacity Buffer | Total Transportation Cost | Weighted Avg Distance |
-|---:|---:|---:|
-| 1.00 | 18,415,335.87 | 359.04 km |
-| 1.30 | 16,345,438.15 | 318.68 km |
+\begingroup
+\small
+\setlength{\tabcolsep}{4pt}
+
+| Capacity buffer | Total transportation cost | Weighted avg. distance (km) | Avg. utilization rate | Max. utilization rate |
+| --------------: | ------------------------: | --------------------------: | --------------------: | --------------------: |
+|            1.00 |             18,415,335.87 |                      359.04 |                1.0000 |                  1.00 |
+|            1.05 |             18,051,060.71 |                      351.93 |                0.9875 |                  1.00 |
+|            1.10 |             17,701,059.42 |                      345.11 |                0.9762 |                  1.00 |
+|            1.20 |             17,010,929.70 |                      331.66 |                0.9563 |                  1.00 |
+|            1.30 |             16,345,438.15 |                      318.68 |                0.9395 |                  1.00 |
 
 As the capacity buffer increased, total transportation cost and weighted average distance both decreased in the final transportation allocation model. From capacity buffer **1.00** to **1.30**, total transportation cost decreased by **2,069,897.72**, and weighted average distance decreased by **40.36 km**.
 
