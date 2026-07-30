@@ -1,6 +1,6 @@
 ---
 title: E-Commerce Fulfillment Optimization with Capacity Constraints
-author: Zhiyi Zhu (Elsie Chu)
+author: Zhiyi (Elsie) Zhu
 date: ""
 toc: true
 toc-depth: 2
