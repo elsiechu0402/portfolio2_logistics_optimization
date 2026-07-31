@@ -214,10 +214,6 @@ The sensitivity analysis tested how the final optimization model results changed
 
 **Table 2. Capacity sensitivity analysis results.**
 
-\begingroup
-\small
-\setlength{\tabcolsep}{4pt}
-
 | Capacity buffer | Total transportation cost | Weighted avg. distance (km) | Avg. utilization rate | Max. utilization rate |
 | --------------: | ------------------------: | --------------------------: | --------------------: | --------------------: |
 |            1.00 |             18,415,335.87 |                      359.04 |                1.0000 |                  1.00 |
