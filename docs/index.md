@@ -68,7 +68,7 @@ title: E-Commerce Fulfillment Optimization
 
 <h1 class="portfolio-title">E-Commerce Fulfillment Optimization with Capacity Constraints</h1>
 
-<p class="portfolio-subtitle">Portfolio 2: Logistics and Fulfillment Optimization | Zhiyi (Elsie) Zhu</p>
+<p class="portfolio-subtitle">Portfolio 2 | Zhiyi (Elsie) Zhu</p>
 
 <div class="portfolio-nav">
   <a href="#1-introduction">Introduction</a>
